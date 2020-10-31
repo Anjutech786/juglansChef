@@ -1,0 +1,8 @@
+
+
+file '/myfileForChef' do
+content 'welcome to juglans '
+action :create
+end
+
+
